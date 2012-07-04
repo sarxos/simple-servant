@@ -1,0 +1,6 @@
+*.suo
+simple-servant/bin
+simple-servant/obj
+simple-servant-example/bin
+simple-servant-example/obj
+
